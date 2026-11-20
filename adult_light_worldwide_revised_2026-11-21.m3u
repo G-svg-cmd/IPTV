@@ -1,0 +1,38 @@
+#EXTM3U
+# International light/adult IPTV - revised 2026-11-21
+# Only Miami TV Jenny Live is confirmed working by the user in France.
+# All other streams are UNVERIFIED on LG/Samsung; no guarantees of compatibility or geographic availability.
+# Previous 7 nonworking links are excluded. No login/token, special Referer or User-Agent parameters included.
+# status: confirmed by user on LG
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+# status: untested, alternate CDN
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Miami TV Gold
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
+# status: untested
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Miami TV Life
+https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-life/playlist.m3u8
+# status: untested
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Miami TV Live
+https://f537294740ba4429b8de5354b0e4452d.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/LIVE/playlist.m3u8
+# status: different URL from previously failed Latino
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Miami TV Latino - alternate CDN
+https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
+# status: untested
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+# status: untested
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",A3 Bikini Network
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+# status: untested
+#EXTINF:-1 tvg-country="FR" group-title="Adult - Light",Fashion TV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+# status: untested, fashion programming
+#EXTINF:-1 tvg-country="FR" group-title="Adult - Light",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+# status: untested, general fashion
+#EXTINF:-1 tvg-country="US" group-title="Adult - Light",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+# status: untested, historic URL, low confidence
+#EXTINF:-1 tvg-country="NL" group-title="Adult - Standard",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
