@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste (1080p)" group-title="01 ARD - Das Erste",Das Erste (1080p) - ARD International
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste (720p)" group-title="01 ARD - Das Erste",Das Erste (720p) - Hopslan
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="01 ARD - Das Erste",Das Erste - Netplus Zappr CH
+https://netplus.zappr.stream/daserstehd.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="01 ARD - Das Erste",Das Erste - Netplus CH
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="01 ARD - Das Erste",Das Erste - ARD Germany (geo)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="01 ARD - Das Erste",Das Erste - Overseas relay (experimental)
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF (720p)" group-title="02 ZDF",ZDF (720p) - Official Germany
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="02 ZDF",ZDF - Official High Bitrate (geo)
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF (720p)" group-title="02 ZDF",ZDF (720p) - Netplus Zappr CH
+https://netplus.zappr.stream/zdfhd.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="02 ZDF",ZDF - Netplus CH
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="02 ZDF",ZDF - Overseas relay (experimental)
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat (720p)" group-title="03 3sat",3sat (720p) - Official DACH
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="03 3sat",3sat - Official High Bitrate (geo)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="03 3sat",3sat - Netplus Zappr CH
+https://netplus.zappr.stream/3sathd.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat (1080p)" group-title="03 3sat",3sat (1080p) - Netplus CH
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="04 ProSieben",ProSieben - Overseas relay (experimental)
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="04 ProSieben",ProSieben - Netplus CH (legacy)
+https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="04 ProSieben",ProSieben - Zappr CH (legacy)
+https://netplus.zappr.stream/pro7.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" group-title="05 SAT.1",SAT.1 - Overseas relay (experimental)
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" group-title="05 SAT.1",SAT.1 - Netplus CH (legacy)
+https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" group-title="05 SAT.1",SAT.1 - Zappr CH (legacy)
+https://netplus.zappr.stream/sateins.m3u8
