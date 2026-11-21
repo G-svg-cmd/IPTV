@@ -1,0 +1,34 @@
+#EXTM3U
+# Kaloopy TV + 14 international fashion/models streams
+# Kaloopy TV worked for the user; the 14 additional streams are unverified from France.
+# Country groups retained from the 14-channel file.
+#EXTINF:-1 tvg-country="US" group-title="United States",Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+#EXTINF:-1 tvg-country="FR" group-title="France",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CLIENT_SECTION=ftv_secrets&AV_CONTENT_GENRE=fashion+and+lifestyle&content_livestream=1
+#EXTINF:-1 tvg-country="FR" group-title="France",FashionTV Paris L Original (1080p) - new CDN
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="Netherlands",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 tvg-country="BG" group-title="Bulgaria",Code Fashion TV
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-country="UA" group-title="Ukraine",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-country="UA" group-title="Ukraine",Fashion and Lifestyle HD
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcasthdfashionlifestyle/playlist.m3u8
+#EXTINF:-1 tvg-country="IT" group-title="Italy",Milan Fashion Week
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-country="IT" group-title="Italy",FashionTV Italia
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-country="SK" group-title="Slovakia",FashionTV Czech and Slovak
+https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" group-title="International",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-country="" group-title="International",Runway TV
+https://vse2-as-all78.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
+#EXTINF:-1 tvg-country="JP" group-title="Japan",FashionTV Tokyo
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="SG" group-title="Singapore",FashionTV Asia
+https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="CL" group-title="Chile",Chic Magazine TV
+https://paneltv.online:1936/8056/8056/playlist.m3u8
