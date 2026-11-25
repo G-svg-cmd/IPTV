@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="01 ZDF DE Redge" group-title="01 Redge Media",01 ZDF (Germany) - Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="02 Rai 1 IT Redge" group-title="01 Redge Media",02 Rai 1 (Italy) - Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="03 Canale 5 IT Redge" group-title="01 Redge Media",03 Canale 5 (Italy) - Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="04 Italia 1 IT Redge" group-title="01 Redge Media",04 Italia 1 (Italy) - Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="05 BBC One UK Redge" group-title="01 Redge Media",05 BBC One (UK) - Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-name="06 Rai 2 IT CloudFront" group-title="02 CloudFront",06 Rai 2 (Italy) - CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-name="07 Rai 3 IT CloudFront" group-title="02 CloudFront",07 Rai 3 (Italy) - CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+
+#EXTINF:-1 tvg-name="08 Rai Premium IT CloudFront" group-title="02 CloudFront",08 Rai Premium (Italy) - CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8
+
+#EXTINF:-1 tvg-name="09 LA7 IT CloudFront" group-title="02 CloudFront",09 LA7 (Italy) - CloudFront
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-name="10 Nove IT Enhanced Live" group-title="03 Enhanced Live",10 Nove (Italy) - Enhanced Live
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-name="11 BBC Drama UK Wurl" group-title="04 Wurl",11 BBC Drama (UK) - Wurl
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
