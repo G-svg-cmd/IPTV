@@ -1,0 +1,378 @@
+#EXTM3U
+# 2026-11-25 | Newly discovered public-listing candidates; not user-tested in France
+# Excludes 11 older test streams including Rai Premium that did not work
+
+#EXTINF:-1 group-title="France | Redge",001 [France] 6ter | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",002 [France] AB1 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",003 [France] Action | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",004 [France] Animaux | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",005 [France] ARTE France | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",006 [France] Automoto la chaîne | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",007 [France] BFM TV | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",008 [France] CStar | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",009 [France] Chasse & Pêche | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",010 [France] CNews | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",011 [France] Comedy Central France | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",012 [France] Comedy Central English | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",013 [France] Crime District | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",014 [France] Eurosport 1 France | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",015 [France] Eurosport 2 France | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",016 [France] Eurosport 1 Italy | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",017 [France] Eurosport 2 Italy | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",018 [France] Eurosport 2 UK | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",019 [France] France 2 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",020 [France] France 3 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",021 [France] France 3 Côte d’Azur | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",022 [France] France 4 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",023 [France] France 5 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",024 [France] Gulli | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",025 [France] Histoire TV | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",026 [France] L'Équipe | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",027 [France] LCI | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",028 [France] LCP | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",029 [France] M6 Music | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",030 [France] M6 | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",031 [France] Mangas | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",032 [France] Melody | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",033 [France] MTV France | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",034 [France] MyZen TV | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",035 [France] Nickelodeon | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",036 [France] Nickelodeon Junior | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",037 [France] Nicktoons | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",038 [France] NOVO19 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",039 [France] Paris Première | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",040 [France] RMC Découverte | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",041 [France] RMC Life | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",042 [France] RMC Story | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",043 [France] Science & Vie TV | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",044 [France] Série Club | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",045 [France] T18 | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",046 [France] Téva | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",047 [France] TF1 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",048 [France] TF1 Séries Films | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",049 [France] TFX | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",050 [France] TMC | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",051 [France] Toute l'Histoire | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",052 [France] TV5MONDE FBS | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",053 [France] TV Breizh | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",054 [France] Ushuaïa TV | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | Redge",055 [France] W9 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",056 [France] ADN TV+ | CloudFront
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",057 [France] BFM2 | CloudFront
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",058 [France] Caillou | CloudFront
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",059 [France] L'Équipe (alternative) | CloudFront
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",060 [France] RMC Découverte (alternative) | CloudFront
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",061 [France] RMC Life (alternative) | CloudFront
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",062 [France] RMC Story (alternative) | CloudFront
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",063 [France] Sony One Blacklist | CloudFront
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",064 [France] Sony One Favoris | CloudFront
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",065 [France] Sony One Hits Action | CloudFront
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="France | CloudFront",066 [France] Sony One Hits Comédie | CloudFront
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Germany | Redge",067 [Germany] ZDFinfo | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Germany | Redge",068 [Germany] ZDFneo | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Germany | Redge",069 [Germany] Sport1 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="UK | Redge",070 [UK] BBC News UK | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="UK | Redge",071 [UK] BBC Two | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="UK | Redge",072 [UK] Channel 4 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="UK | Redge",073 [UK] CNBC Europe | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",074 [Italy] Rai 2 (Redge alternative) | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",075 [Italy] Rai 3 (Redge alternative) | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_tre/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",076 [Italy] Rai News 24 | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",077 [Italy] Mediaset Extra | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",078 [Italy] Rete 4 | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | Redge",079 [Italy] LA7 (Redge alternative) | Redge
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/la_7/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",080 [Italy] Rai Italia Europe/Africa | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",081 [Italy] Rai Italia Australia | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",082 [Italy] Rai Italia North America | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",083 [Italy] Rai Italia South America | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",084 [Italy] Rai News 24 (CloudFront) | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",085 [Italy] Rai Storia | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",086 [Italy] Rai World Premium | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",087 [Italy] Rai Scuola / Italiana | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",088 [Italy] LA7 HD (alternative) | CloudFront
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+
+#EXTINF:-1 group-title="Italy | CloudFront",089 [Italy] LA7d | CloudFront
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 group-title="Spain | Redge",090 [Spain] 24 Horas | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain | Redge",091 [Spain] TVE Internacional Europa | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain | CloudFront",092 [Spain] Anime Vision | CloudFront
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 group-title="Spain | CloudFront",093 [Spain] Anime Vision Classics | CloudFront
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 group-title="Spain | CloudFront",094 [Spain] Canal Sur Andalucía | CloudFront
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1 group-title="Spain | CloudFront",095 [Spain] Televisión Canaria | CloudFront
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+
+#EXTINF:-1 group-title="Portugal | Redge",096 [Portugal] RTP Mundo | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Switzerland | Redge",097 [Switzerland] RTS 1 | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Switzerland | Redge",098 [Switzerland] SRF info | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Netherlands | Redge",099 [Netherlands] BVN | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Poland | Redge",100 [Poland] TVP Polonia | Redge
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tvp_polonia/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Romania | Redge",101 [Romania] TVR International | Redge
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tvr_international/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",102 [Belgium] ACTV | CloudFront
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",103 [Belgium] Boukè | CloudFront
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",104 [Belgium] BX1 | CloudFront
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",105 [Belgium] Télésambre | CloudFront
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",106 [Belgium] Trends Z FR | CloudFront
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",107 [Belgium] Trends Z NL | CloudFront
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+
+#EXTINF:-1 group-title="Belgium | CloudFront",108 [Belgium] TV Lux | CloudFront
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",109 [Netherlands] 1Almere TV | CloudFront
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",110 [Netherlands] Altena TV | CloudFront
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",111 [Netherlands] RTV Oost | CloudFront
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",112 [Netherlands] RTV Rijnmond | CloudFront
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",113 [Netherlands] RTV Utrecht | CloudFront
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",114 [Netherlands] Omroep Venlo | CloudFront
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",115 [Netherlands] Omroep Zeeland | CloudFront
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",116 [Netherlands] Omroep West | CloudFront
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",117 [Netherlands] Salto 1 | CloudFront
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands | CloudFront",118 [Netherlands] Salto 2 | CloudFront
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+
+#EXTINF:-1 group-title="USA | CloudFront",119 [USA] CNN International Europe | CloudFront
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 group-title="USA | CloudFront",120 [USA] CNN International FAST North America | CloudFront
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+
+#EXTINF:-1 group-title="USA | CloudFront",121 [USA] Clubbing TV France | CloudFront
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 group-title="USA | CloudFront",122 [USA] Dateline 24/7 | CloudFront
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 group-title="Canada | CloudFront",123 [Canada] Noovo Cinéma | CloudFront
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+
+#EXTINF:-1 group-title="Canada | CloudFront",124 [Canada] Noovo Comédies | CloudFront
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+
+#EXTINF:-1 group-title="Canada | CloudFront",125 [Canada] Noovo Téléréalités | CloudFront
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
